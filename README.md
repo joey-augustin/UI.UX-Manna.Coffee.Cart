@@ -1,1 +1,20 @@
 # UI-UX-Manna.Coffee.Cart
+
+## Project - Manna Coffee Cart
+I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food truck hybrid, with website functions like viewing a menu, ordering, creating a perks account, and buying merchandise.
+
+- **Low-Fidelity Prototype (Desktop)**: https://www.figma.com/design/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=0-1&t=Vbc0dKEILDmeUmHi-1
+
+  I learned the importance of user flow and website functionality. I had the opportunity to experiment with different layouts to create the highest level of usability.
+  
+- **High-Fidelity Prototype (Desktop)**: https://www.figma.com/design/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=1-2&t=dKOtVNQ4BP6Rfd2b-1
+
+  I polished my lo-fi prototype to look more polished and follow more universal design practices. This included adding interactions, variants, and component-heavy visual design.
+  
+- **High-Fidelity Prototype (Mobile)**: https://www.figma.com/proto/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=1-3&t=cgIlsLNDvdkmQHjh-1
+
+  Converted my Desktop Prototype to a Mobile layout, practicing format modifications with constraint changes. As more internet shifts mobile, this practice not only is helping me see what sizing manipulations do to my prototype, but prepare me for the future of how the internet is seen.
+  
+- **Portfolio Case Study**: https://www.figma.com/proto/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=226-831&t=cgIlsLNDvdkmQHjh-1
+
+  After completing each of the designs, I practiced highlighting my work and my process from the perspective of a website pitch. I reflected on the design process, expanded on the development journey, and explained what I learned and areas of future growth for the website.
