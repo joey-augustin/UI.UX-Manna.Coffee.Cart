@@ -1,7 +1,6 @@
-# UI.UX-Manna.Coffee.Cart
-
+# UI.UX - Manna.Coffee.Cart
+I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food truck hybrid, with website functions like viewing a menu, ordering drinks, and buying merchandise.
 ## Project - Manna Coffee Cart
-I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food truck hybrid, with website functions like viewing a menu, ordering, creating a perks account, and buying merchandise.
 
 - **Low-Fidelity Prototype (Desktop)**: https://www.figma.com/design/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=0-1&t=Vbc0dKEILDmeUmHi-1
 
@@ -21,4 +20,5 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
 
 ## Technologies Used
 - Figma
-- 
+- Figma UI / Design Components
+- Material Design
